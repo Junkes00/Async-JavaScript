@@ -1,0 +1,15 @@
+{
+  "name": "async-javascript",
+  "version": "1.0.0",
+  "description": "Curse about Callbacks, Promises and async/await",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "nodemon index.js"
+  },
+  "author": "Nicolas Junkes",
+  "license": "ISC",
+  "devDependencies": {
+    "axios": "^1.2.1",
+    "nodemon": "^2.0.20"
+  }
+}
